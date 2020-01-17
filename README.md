@@ -7,3 +7,5 @@ This is written in Markdown, which supports things like lists:
 * final bullet
 
 You can also add links, e.g., to [Wikipedia](https://www.wikipedia.org).
+
+An [overview](docs/overview.md) of the project is also available.
