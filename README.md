@@ -7,3 +7,5 @@ This is written in Markdown, which supports things like lists:
 * final bullet
 
 You can also add links, e.g., to [Wikipedia](https://www.wikipedia.org).
+
+Importantly, a corretto is an espresso shot with liquor. Usually, Grappa.
